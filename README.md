@@ -3,7 +3,7 @@
 
 ## Setup on Windows
 
-> Note: `node version 12 or more` is required for PDF rendering.
+> Note: `node version 12 or more` is required.
 > Note: Make sure you have completed the setup step https://reactnative.dev/docs/environment-setup
 
 ```sh
